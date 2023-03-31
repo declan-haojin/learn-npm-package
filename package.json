@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-haojin",
+  "version": "1.0.0",
+  "description": "Is the string wds?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/declan-haojin/learn-npm-package.git"
+  },
+  "keywords": [
+    "wds"
+  ],
+  "author": "Haojin Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/declan-haojin/learn-npm-package/issues"
+  },
+  "homepage": "https://github.com/declan-haojin/learn-npm-package#readme"
+}
